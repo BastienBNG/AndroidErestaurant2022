@@ -5,7 +5,6 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.util.Log
 import android.view.Menu
-import android.widget.Button
 import fr.isen.bongiorno.androiderestaurant.databinding.ActivityHomeBinding
 
 class HomeActivity : AppCompatActivity() {
@@ -27,7 +26,7 @@ class HomeActivity : AppCompatActivity() {
             changeActivity(getString(R.string.home_dishes))
         }
         buttonDeserts.setOnClickListener {
-            changeActivity(getString(R.string.home_deserts))
+            changeActivity(getString(R.string.home_desserts))
         }
 
     }

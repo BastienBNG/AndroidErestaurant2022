@@ -2,7 +2,7 @@
     <string name="app_name">E_Restaurant</string>
     <string name="home_entries">Entrées</string>
     <string name="home_dishes">Plats</string>
-    <string name="home_deserts">Desserts</string>
+    <string name="home_desserts">Desserts</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
